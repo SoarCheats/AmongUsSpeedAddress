@@ -4,7 +4,7 @@ Kill Cooldown - GameAssembly.dll+01CD414C,5C,24,20 - Working
 
 Crewmate Vision - GameAssembly.dll+01CCE6B0,5C,14,18 - Working
 
-Imposter Vision - GameAssembly.dll+01CA3E64, 5C, 0, 90C - Broken ATM
+Imposter Vision - GameAssembly.dll+01CD414C,1C,24,5C - Updated 13 Feb 2022
 
 Percentage Of ShapeShifter - GameAssembly.dll+01CCF8D8, 5C, 68, 54, 30, C, 20 - Needs Host!
 
